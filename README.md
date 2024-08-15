@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?&type=soft&color=fff8c5&height=100&section=header&text=Welcome%20to%20Jieon's%20GitHub%20profile%20&fontSize=30" />
+
 ## 🔨 Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
