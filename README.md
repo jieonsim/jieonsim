@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?&type=soft&color=fff8c5&height=100&section=header&text=Welcome%20to%20Jieon's%20GitHub%20profile%20&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?&type=soft&color=000000&height=100&section=header&text=Welcome%20to%20Jieon's%20GitHub%20profile%20&fontSize=30&fontColor=ffffff" />
 
-## 🔨 Stack 🔨
+## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring framework-6DB33F?style=for-the-badge&logo=spring framework&logoColor=white"> 
     </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
+    <!-- DevOps -->
+    <p><strong>DevOps</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
