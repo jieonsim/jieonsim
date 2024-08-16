@@ -7,7 +7,6 @@
         <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white">        
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
     </div>
-    <br>
     <!-- Frontend -->
     <h3>📌 Frontend</h3>
     <div>
