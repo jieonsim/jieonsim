@@ -1,7 +1,7 @@
 ## Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
-    <p><strong>📌 Backend</strong></p>
+    <h3>📌 Backend</h3>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white">        
@@ -9,7 +9,7 @@
     </div>
     <br>
     <!-- Frontend -->
-    <p><strong>📌 Frontend</strong></p>
+    <h3>📌 Frontend</h3>
     <div>
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
